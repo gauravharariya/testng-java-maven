@@ -4,7 +4,7 @@ run-name: ${{ github.actor }} is creating Allure report 🚀
 on:
   push:
     branches:
-      - gh-pages
+      - test-allure
 
 jobs:
   autotests:
