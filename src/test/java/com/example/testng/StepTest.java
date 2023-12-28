@@ -16,6 +16,9 @@ public class StepTest {
     public void annotatedStepTest1() {
         annotatedStep("local value one");
     }
+
+
+
     
     @Test
     public void lambdaStepTest() {
