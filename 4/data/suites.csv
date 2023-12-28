@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Dec 28 13:16:34 GMT 2023","Thu Dec 28 13:16:34 GMT 2023","1","Surefire suite","Surefire test","com.example.testng.StepTest","com.example.testng.StepTest","annotatedStepTest1","annotatedStepTest1",""
+"passed","Thu Dec 28 13:16:34 GMT 2023","Thu Dec 28 13:16:34 GMT 2023","25","Surefire suite","Surefire test","com.example.testng.StepTest","com.example.testng.StepTest","annotatedStepTest","annotatedStepTest",""
+"passed","Thu Dec 28 13:16:34 GMT 2023","Thu Dec 28 13:16:34 GMT 2023","3","Surefire suite","Surefire test","com.example.testng.StepTest","com.example.testng.StepTest","lambdaStepTest","lambdaStepTest",""
