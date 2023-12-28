@@ -17,6 +17,14 @@ public class StepTest {
         annotatedStep("local value one");
     }
 
+   @Test
+    public void testEquality() {
+        int expected = 6;
+        int actual = 3 + 2;
+        // Using assertEquals to check if the values are equal
+        Assert.assertEquals("Values are not equal", expected, actual);
+    }
+    
     @Test
     public void lambdaStepTest() {
         final String localParameter = "parameter value";
